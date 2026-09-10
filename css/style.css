@@ -27,15 +27,15 @@ nav a:hover {
 }
 
  video {
-    width: 80%;
+    width: 45%;
     height: 60%;
     margin:auto;
     display: block;
 }
 
 #map {
-    width: 40em;
-    height: 20em;
+    width: 60em;
+    height: 40em;
     margin:auto;
 }
 
