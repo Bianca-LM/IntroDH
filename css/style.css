@@ -27,8 +27,8 @@ nav a:hover {
 }
 
 #map, video {
-    width: 60%;
-    height: 80%;
+    width: 40em;
+    height: 20em;
     padding: auto;
     margin:auto;
 }
