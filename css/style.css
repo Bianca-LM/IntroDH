@@ -4,10 +4,6 @@ nav a {
     margin-right: 2%;
 }
 
-body {
-    height: 100vh;
-}
-
 nav a:hover {
     background-color: rgb(224, 223, 223);
     color: black;
