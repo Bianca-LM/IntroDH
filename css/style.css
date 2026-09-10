@@ -30,12 +30,11 @@ nav a:hover {
     margin-top: 2%;
 }
 
-#map {
+#map, video {
     width: 60%;
     height: 80%;
     padding: auto;
     margin:auto;
-
 }
 
 footer {
