@@ -1,0 +1,35 @@
+nav a {
+    color: black;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+body {
+    height: 100vh;
+}
+
+nav a:hover {
+    background-color: rgb(224, 223, 223);
+    color: black;
+}
+
+.navbar-toggler {
+    background-color: rgb(201, 201, 201);
+}
+
+.nav-link {
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+.homeNav {
+    width: 100%;
+}
+
+footer {
+    font-size: 0.8em;
+    text-align: center;
+    width: 100%;
+    margin-top: 4%;
+    padding-bottom: 1%;
+}
