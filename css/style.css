@@ -27,8 +27,11 @@ nav a:hover {
 }
 
 #map {
-    width: 765px;
-    height: 663px;
+    width: 60%;
+    height: 80%;
+    padding: auto;
+    margin:auto;
+
 }
 
 footer {
