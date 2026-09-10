@@ -35,6 +35,7 @@ nav a:hover {
     height: 80%;
     padding: auto;
     margin:auto;
+    display: block;
 }
 
 footer {
